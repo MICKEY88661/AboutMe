@@ -9,7 +9,7 @@
 
 
 # Skill set
-  - Frontend
+  - Frontend (mid.)
     - Web
       - HTML、CSS、JavaScript
     - Mobile 
@@ -18,4 +18,7 @@
   - Backend (jr.)
     - Golang
     - Node.js
+
+
   - DevOps
+    - Github Action
