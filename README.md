@@ -1,6 +1,6 @@
 # Education
   1. [臺北市立南湖高級中學](http://www.nhush.tp.edu.tw/)
-  2. [國立勤益科技大學](https://www.ncut.edu.tw/)
+  2. [國立勤益科技大學](https://www.ncut.edu.tw/) CSIE
 
 
 # Career
