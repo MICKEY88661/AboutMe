@@ -5,7 +5,7 @@
 
 # Career
   1. [文榮創讀股份有限公司](https://wrcd.ltd/) Full Stack Developer
-  2. [極軒科技股份有限公司]() Research and Development engineer
+  2. [極軒科技股份有限公司]() Research & Development Engineer
 
 
 # Skill set
