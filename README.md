@@ -20,5 +20,5 @@
     - Node.js
 
 
-  - DevOps
+  - DevOps (jr.)
     - Github Action
