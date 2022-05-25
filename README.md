@@ -19,6 +19,3 @@
     - Golang
     - Node.js
 
-
-  - DevOps (jr.)
-    - Github Action
