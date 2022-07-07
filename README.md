@@ -11,7 +11,7 @@
 # Skill set
   - Frontend (mid.)
     - Web
-      - Reactjs
+      - React.js
     - Mobile 
       - Flutter
 
