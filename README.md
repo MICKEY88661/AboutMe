@@ -20,4 +20,8 @@
   - Backend (jr.)
     - Golang
     - Node.js
+    
+# Social media
+  - [Stackoverflow](https://stackoverflow.com/users/13114362/mickey?tab=profile)
+  - [instagram](https://www.instagram.com/mickey88661/)
 
